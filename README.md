@@ -1,0 +1,2 @@
+# EGC
+Prácticas de EGC
